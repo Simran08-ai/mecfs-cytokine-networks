@@ -1,0 +1,15 @@
+# participant data - never upload
+data/
+*.xlsx
+*.xls
+*.csv
+
+# R / RStudio files
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# system files
+.DS_Store
+Thumbs.db
